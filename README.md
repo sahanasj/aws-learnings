@@ -2,6 +2,12 @@
 
 [**10-Minute Tutorials**](https://aws.amazon.com/getting-started/tutorials/) - Get started with a simple “Hello, World!” tutorial to get hands-on with an AWS product
 
+[Learn to Build on AWS: DevOps](https://aws.amazon.com/getting-started/use-cases/devops/?csl_l2b_do) - [IMP] step-by-step guides to build a production-ready devops solution.
+
+[Getting Started Resource Center](https://aws.amazon.com/getting-started/) - From core concepts to beginner tutorials, find the information you need to start building on AWS
+
+[AWS In 10 Minutes | AWS Tutorial For Beginners | AWS Training Video | AWS Tutorial | Simplilearn](https://www.youtube.com/watch?v=r4YIdn2eTm4)
+
 [This Is My Architecture](https://aws.amazon.com/this-is-my-architecture/) - Innovative cloud architectures from AWS partners and customers
 
 [Cloud Video Editing on AWS](https://aws.amazon.com/quickstart/architecture/cloud-video-editing/) - Quick Start deploys a highly available architecture for cloud video editing on the Amazon Web Services (AWS) Cloud.

@@ -6,7 +6,7 @@
 
 [Getting Started Resource Center](https://aws.amazon.com/getting-started/) - From core concepts to beginner tutorials, find the information you need to start building on AWS
 
-[AWS In 10 Minutes | AWS Tutorial For Beginners | AWS Training Video | AWS Tutorial | Simplilearn](https://www.youtube.com/watch?v=r4YIdn2eTm4)
+[AWS Certifications Roadmap for Everyone](https://www.youtube.com/watch?v=P2FKdqPbyk0)
 
 [This Is My Architecture](https://aws.amazon.com/this-is-my-architecture/) - Innovative cloud architectures from AWS partners and customers
 
@@ -15,6 +15,54 @@
 [AWS Training and Certification](https://www.aws.training/Dashboard)
 
 [Getting Started Videos for Education](https://aws.amazon.com/education/edu-getting-started-videos/)
+
+# Quick Video Tutorials with AWS Services
+
+[AWS In 10 Minutes | AWS Tutorial For Beginners | AWS Training Video | AWS Tutorial | Simplilearn](https://www.youtube.com/watch?v=r4YIdn2eTm4)
+
+[What is AWS | What is Amazon Web Services | AWS Tutorial for Beginners | AWS Training | Simplilearn] (https://www.youtube.com/playlist?list=PLEiEAq2VkUULlNtIFhEQHo8gacvme35rz)
+
+<!-- https://www.youtube.com/watch?v=EUFOW6a-_24 -->
+
+[AWS Lambda Tutorial | Amazon Lambda Tutorial | AWS Tutorial | AWS Training Video | Simplilearn](https://www.youtube.com/results?search_query=aws+lambda+tutorial+for+beginners)
+
+[Amazon Redshift Tutorial | AWS Tutorial for Beginners](https://www.youtube.com/results?search_query=aws+redshift+tutorial+for+beginners+)
+
+[Amazon EC2 Tutorial | AWS Tutorial for Beginners](https://www.youtube.com/results?search_query=aws+ec2+tutorial+for+beginners)
+
+[Amazon Virtual Private Cloud (VPC) | AWS Tutorial For Beginners](https://www.youtube.com/results?search_query=aws+vpc+tutorial+for+beginners)
+
+[AWS IAM Tutorial | Identity And Access Management (IAM)](https://www.youtube.com/results?search_query=aws+iam+tutorial+for+beginners)
+
+[Amazon Redshift Tutorial | AWS Tutorial for Beginners](https://www.youtube.com/results?search_query=aws+quicksight+tutorial+for+beginners)
+
+[AWS S3 Tutorial For Beginners | AWS S3 Bucket Tutorial | AWS Tutorial For Beginners ](https://www.youtube.com/results?search_query=aws+s3+tutorial+for+beginners)
+
+[AWS Route 53 Domain Name Setup | Configuring DNS with AWS Route53](https://www.youtube.com/results?search_query=aws+route53+tutorial+for+beginners)
+
+[AWS DynamoDB Tutorial | AWS Services | AWS Tutorial For Beginners](https://www.youtube.com/results?search_query=aws+dynamodb+tutorial+for+beginners)
+
+[AWS CloudWatch Tutorial | What is AWS CloudWatch | AWS Tutorial ](https://www.youtube.com/results?search_query=aws+cloudwatch+tutorial+for+beginners)
+
+[AWS CloudFront Tutorial | AWS Tutorial For Beginners](https://www.youtube.com/results?search_query=aws+cloudfront+tutorial+for+beginners)
+
+[Getting Started with Amazon SES - Simple Email Service on AWS](https://www.youtube.com/results?search_query=aws+ses+tutorial+for+beginners)
+
+[Getting Started with Amazon SNS - Simple Notification Service on AWS](https://www.youtube.com/results?search_query=aws+sns+tutorial+for+beginners)
+
+[Getting Started with Amazon SQS - Simple Queue Service on AWS](https://www.youtube.com/results?search_query=aws+sqs+tutorial+for+beginners)
+
+[AWS CloudFormation Tutorial | AWS CloudFormation Demo | AWS Tutorial For Beginners](https://www.youtube.com/results?search_query=aws+cloudformation+tutorial+for+beginners)
+
+[AWS Config - Rules, Resources & Timelines with DEMO | IMPORTANT Security Service](https://www.youtube.com/results?search_query=aws+config+tutorial+for+beginners)
+
+[AWS DevOps Integration | DevOps AWS | DevOps Tools on AWS | DevOps Training](https://www.youtube.com/results?search_query=aws+devops+tutorial+for+beginners)
+
+[AWS Pricing Tutorial | Billing | Cost](https://www.youtube.com/results?search_query=aws+billing+tutorial+for+beginners)
+
+[CodeBuild, CodePipeline, CodeDeploy, CodeCommit in CloudFormation](https://www.youtube.com/playlist?list=PLSHbcVrx0dWvhaHOU9v2qnKftGkz2SUFq)
+
+[AWS Tutorial For Beginners | AWS Certification Course | AWS Training | Edureka](https://www.youtube.com/playlist?list=PL9ooVrP1hQOFWxRJcGdCot7AgJu29SVV3)
 
 # 10 Minutes Tutorials with AWS Services
 

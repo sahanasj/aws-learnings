@@ -32,23 +32,26 @@
 
 [Run a Serverless "Hello, World!" with AWS Lambda](https://aws.amazon.com/getting-started/tutorials/run-serverless-code/?trk=gs_card)
 
+[Set up a Continuous Deployment Pipeline using AWS CodePipeline](https://aws.amazon.com/getting-started/tutorials/continuous-deployment-pipeline/?trk=gs_card)
 
+[Remotely Run Commands on an EC2 Instance With AWS Systems Manager](https://aws.amazon.com/getting-started/tutorials/remotely-run-commands-ec2-instance-systems-manager/?trk=gs_card)
 
+[Build a Serverless Application with AWS CodeStar and AWS Cloud9](https://aws.amazon.com/getting-started/tutorials/build-serverless-app-codestar-cloud9/?trk=gs_card)
 
+[Launch a Windows Virtual Machine with Amazon EC2](https://aws.amazon.com/getting-started/tutorials/launch-windows-vm/?trk=gs_card)
 
+[Create and Connect to a PostgreSQL Database with Amazon RDS](https://aws.amazon.com/getting-started/tutorials/create-connect-postgresql-db/?trk=gs_card)
 
+[Send an Email with Amazon SES](https://aws.amazon.com/getting-started/tutorials/send-an-email/?trk=gs_card)
 
+[Launch an Application with AWS Elastic Beanstalk](https://aws.amazon.com/getting-started/tutorials/launch-an-app/?trk=gs_card)
 
+[Create and Query a NoSQL Table with Amazon DynamoDB](https://aws.amazon.com/getting-started/tutorials/create-nosql-table/?trk=gs_card)
 
+[Detect, Analyze, and Compare Faces with Amazon Rekognition](https://aws.amazon.com/getting-started/tutorials/detect-analyze-compare-faces-rekognition/?trk=gs_card) - how to use the face recognition features in Amazon Rekognition using the AWS Console.
 
-
-
-
-
-
-
-
-
+[Create and Connect to a MariaDB Database](https://aws.amazon.com/getting-started/tutorials/create-mariadb-db/?trk=gs_card) - 
+Create an environment to run your MariaDB database, connect to the database, and delete the DB.
 
 
 [New “Introduction to AWS” Instructional Videos and Labs](https://aws.amazon.com/about-aws/whats-new/2014/01/14/new-introduction-to-aws-instructional-videos-and-labs/)

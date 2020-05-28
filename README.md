@@ -112,3 +112,32 @@ Amazon Web Services - Documentation, Source Code, Projects
 
 [New “Introduction to AWS” Instructional Videos and Labs](https://aws.amazon.com/about-aws/whats-new/2014/01/14/new-introduction-to-aws-instructional-videos-and-labs/)
 AWS Training & Certification offers a new training series called “Introduction to AWS” designed to help you quickly get started using an AWS Service in 30 minutes or less. Start with a short video to learn about key concepts and terminology and watch a step-by-step console demonstration about an AWS Service. Following the video, you can get hands-on practice using that AWS service with a free self-paced training lab on run.qwiklabs.com.
+
+# Recent Additions:
+
+[AWS CERTIFICATION TRAINING COURSES IMP](https://digitalcloud.training/aws-training-courses/) - 
+FREE AWS Certification Training Resources
+
+[AWS CERTIFIED DEVELOPER ASSOCIATE IMP](https://digitalcloud.training/certification-training/aws-developer-associate/) -
+AWS CERTIFIED DEVELOPER ASSOCIATE
+
+[AWS CERTIFICATION TRAINING COURSES IMP](https://digitalcloud.training/amazon-aws-free-certification-training-cloud-practitioner/)
+
+[Build AWS Cloud skills for success](https://pages.awscloud.com/digital-learning-training-certification.html?sc_channel=ps&sc_campaign=global_digital_learning_campaign&sc_publisher=google&sc_detail=%2Baws%20%2Bvideos&sc_content=signupforaws.training&sc_country=in&sc_geo=apac&sc_category=aws_training&sc_segment=glbl-fy20-traincert_dlc_7&sc_outcome=aware&trk=glbl_fy20_traincert_dlc&s_kwcid=AL!4422!3!437852889058!b!!g!!%2Baws%20%2Bvideos&ef_id=Cj0KCQjwwr32BRD4ARIsAAJNf_1jh4Q6aQ-Kb_OuHy8NVXIVImWRan7WuuBBJPWY0IiMBgcLLk9tUgkaAkt2EALw_wcB:G:s&s_kwcid=AL!4422!3!437852889058!b!!g!!%2Baws%20%2Bvideos)
+
+
+[AWS Digital Training](https://www.aws.training/LearningLibrary?filters=language%3A1&filters=classification%3A103&filters=classification%3A6&filters=digital%3A1&tab=view_all)
+
+[AWS IAM Sample Course](https://www.aws.training/Details/Video?id=16448)
+
+[AWS Free Digital](https://aws.amazon.com/training/course-descriptions/)
+
+[AWS Developer Plan](https://d1.awsstatic.com/training-and-certification/ramp-up-guides/RampUp_Developer_2182020.pdf)
+
+https://d1.awsstatic.com/training-and-certification/ramp-up-guides/RampUp_Operations_102019_final.pdf
+
+https://d1.awsstatic.com/training-and-certification/ramp-up-guides/RampUp_Security_4302020.pdf
+
+
+
+
